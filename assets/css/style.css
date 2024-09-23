@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins-Regular;
+}
+
+
+
+
+.banner{
+    height: auto;
+    background: linear-gradient(#004080cc,#004080d8),  url("../images/Gens\ D\'affaires\ De\ Race\ Mixte\ Assis\ Dans\ Un\ Espace\ De\ Copie\ De\ Bureau\ Moderne_\ _\ Photo\ Premium.jpeg") no-repeat;
+    background-size: cover;
+}
+
+
+
+.container h1{
+    font-size: 40px;
+}
+
+.Social-media-icone{
+     width: 2rem;
+    height: 2rem;
+    background: transparent;
+    border: 5px solid ;
+    border-color: #FFD700;
+    border-radius: 40px;
+    font-size: 1rem;
+    color: #FFFFFF; 
+}
+
+.en-tête h1{
+    font-size: 40px;
+    font-family: Poppins-Black;
+}
+
+.card-body h5{
+    font-size: 20px;
+    font-family: Poppins-Bold;
+}
+
+.banner-2{
+    background:linear-gradient(#000000c5,#000000cd), url(../images/Top\ Ireland\ Universities\ _\ Global\ Edge.jpeg);
+    background-size: cover;
+    height: auto;
+}
+.banner-3{
+    background:linear-gradient(#004080cc,#004080d8), url(../images/télécharger.jpeg);
+    background-size: cover;
+    height: auto;
+}
+
+.blanc{
+    background-color: #FFFFFF;
+    height: 100%;
+}
+
+.For-For label {
+    font-family: Poppins-Regular;
+    font-size: 11px;
+}
+
+.taille {
+    width: 200px;
+    height: 30px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+}
+
+.jaune{
+    background-color: #FFD700;
+  height: auto;
+}
+
+.numero li{
+    list-style: none;
+    
+}
+
+.row{
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+}
+
+.numero{
+    display: flex;
+    justify-content: center;
+}
+
+.formulaire-contact input {
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+
+}
+
+.formulaire-contact .po {
+    height: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family:Poppins-Light ;
+    src: url(../fonts/Poppins-Light.otf);
+}
+
+@font-face {
+    font-family:Poppins-BoldItalic ;
+    src: url(../fonts/Poppins-BoldItalic.otf);
+}
+@font-face {
+    font-family:Poppins-Medium ;
+    src: url(../fonts/Poppins-Medium.otf);
+}
+@font-face {
+    font-family:Poppins-Regular;
+    src: url(../fonts/Poppins-Regular.otf);
+}
+@font-face {
+    font-family:Poppins-SemiBold ;
+    src: url(../fonts/Poppins-SemiBold.otf);
+}
+@font-face {
+    font-family:Poppins-Black ;
+    src: url(../fonts/Poppins-Black.otf);
+}
+@font-face {
+    font-family:Poppins-Bold ;
+    src: url(../fonts/Poppins-Bold.otf);
+}
+
+
+
